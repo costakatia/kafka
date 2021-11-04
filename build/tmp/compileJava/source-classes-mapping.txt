@@ -1,0 +1,6 @@
+com/katia/kafka/spring/Fruit.java
+ com.katia.kafka.spring.Fruit
+com/katia/kafka/spring/FruitMDB.java
+ com.katia.kafka.spring.FruitMDB
+com/katia/kafka/spring/Main.java
+ com.katia.kafka.spring.Main
